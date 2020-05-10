@@ -127,10 +127,10 @@ int main() {
         }
         
 
-        cout << endl << "Select box: ";
+        cout << endl << "Select box: "; //select the box with corresponding alphabets eg,- A/B/C/D
         cin >> p;
         //cout << p <<endl;
-        cout << "Select line: ";
+        cout << "Select Side(L/R/U/D): "; // sides are as L= left, R= Right, U= Up, D= Down 
         cin >> l;
         //cout << l << endl;
         system("cls");
