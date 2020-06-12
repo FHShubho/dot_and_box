@@ -6,10 +6,10 @@
 
 #### Player vs Player
 
-![](https://i.ibb.co/MntX249/dot1.gif)
+![](https://i.ibb.co/1Mnj9Tz/ezgif-com-gif-maker.gif)
 
 
 
 #### Player vs Computer
 
-![](https://i.ibb.co/xHKwZSt/dot-2.gif)
+![](https://i.ibb.co/ggtwsGf/ezgif-com-gif-maker-1.gif)
